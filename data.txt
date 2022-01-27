@@ -1,1 +1,21 @@
-This is test.
+Git Commands
+//git command for config username and email
+//git config --global user.name "Your Name"
+//git config --global user.email "Your Email"
+
+
+//Git Commands
+//git add .
+//git commit -m "message"
+//git push origin master
+
+
+//Git new repository and branch main
+//git init
+//git add .
+//git commit -m "message"
+//git branch -M main
+//git remote add origin
+//git push -u origin main
+
+
